@@ -3,7 +3,6 @@
 - 🔭 HTML | CSS | JAVASCRIPT | REACTJS
 - 🌱 Estudando ReactJs
 - 💬 Pergunte-me sobre qualquer assunto nerd
-- 😄 Pronouns: ele/dele
 - ⚡ Pode sempre contar comigo para uma boa jogatina!
 <br>
 <div align="center">
