@@ -1,13 +1,28 @@
-### Hello World! I'm Thiago Lima 🌎
+<div align="center">
+  <img src="./assets/logo.png" style="height: 130px;"/>
+</div>
+<hr />
+<div align="center">
+    <a href="https://instagram.com/thiago_fang" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/thiago_fang" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href = "mailto:thiagofang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/thiago-lima-46463715a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-- 🔭 HTML | CSS | JAVASCRIPT | REACTJS
-- 🌱 Estudando ReactJs
-- 💬 Pergunte-me sobre qualquer assunto nerd
-- ⚡ Pode sempre contar comigo para uma boa jogatina!
+<p align="center">
+   Hello World! I'm Thiago Lima, I am currently open for jobs🌎
+</p>
+
+##  **About Me**
+* 😀 Thiago Lima, 22 years
+* 🎮 "Thiago Fang" is my gamer and web nick
+* 🎨 Front-End programmer(but i know a little of back-end)
+* 💻 Current studying more ReactJs
+* 🦔 I Love Hedgehogs
+
 <br>
 <div align="center">
   <a href="https://github.com/ThiagoFang">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoFang&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFang&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
@@ -21,9 +36,4 @@
 ##
 
 <br>
-<div>
-    <a href="https://instagram.com/thiago_fang" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/thiago_fang" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href = "mailto:thiagofang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/thiago-lima-46463715a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
