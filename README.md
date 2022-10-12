@@ -14,9 +14,9 @@
 </p>
 
 ##  **About Me**
-* 😀 Thiago Lima, 22 years
-* 🎮 "Thiago Fang" is my gamer and web nick
-* 🎨 Front-End programmer(but i know a little of back-end)
+* 😀 Thiago Lima, 22 years old.
+* 🎮 "Thiago Fang" is my gamer and web nick.
+* 🎨 Front-End programmer(still i know a little of back-end)
 * 💻 Current studying more ReactJs
 * 🦔 I Love Hedgehogs
 <br /><br />
