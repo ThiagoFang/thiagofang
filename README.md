@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.svg" style="height: 130px;"/>
+<!--   <img src="./assets/logo.svg" style="height: 130px;"/> -->
 </div>
 <hr />
 <div align="center">
