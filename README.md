@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-   Hello World! I'm Thiago Lima, I am currently open for jobs🌎
+   Hello World! I'm Thiago Lima, I am currently working on Dogama🌎
 </p>
 
 ## **About Me**
